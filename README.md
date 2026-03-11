@@ -92,6 +92,9 @@ Marya Getu
 
 GitHub: https://github.com/EMAR2722
 
+![Uploading image.png…]()
+
+
 ---
-<img width="1920" height="4959" alt="screencapture-lovable-dev-projects-0e43e0e2-513a-41da-81ed-bbb02bdb8f48-2026-03-11-09_39_38" src="https://github.com/user-attachments/assets/fa2a217d-8d2e-478c-b3b7-c49692e2194a" />
+
 
