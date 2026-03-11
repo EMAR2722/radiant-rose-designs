@@ -92,7 +92,6 @@ Marya Getu
 
 GitHub: https://github.com/EMAR2722
 
-![Uploading image.png…]()
 
 
 ---
