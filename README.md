@@ -31,18 +31,18 @@ Radiant Rose Designs is a modern and elegant beauty salon website built using mo
 
 ## 📂 Project Structure
 
-radiant-rose-designs
-│
-├── public/            Static assets
-├── src/               Main application source code
-│   ├── components/    Reusable UI components
-│   ├── pages/         Page sections
-│   └── main.tsx       Application entry point
-│
-├── index.html         Root HTML file
-├── package.json       Project dependencies
-├── tailwind.config.ts Tailwind CSS configuration
-└── vite.config.ts     Vite configuration
+## 📂 Project Structure
+
+- radiant-rose-designs/
+  - public/ — Static assets
+  - src/ — Main application source code
+    - components/ — Reusable UI components
+    - pages/ — Page sections
+    - main.tsx — Application entry point
+  - index.html — Root HTML file
+  - package.json — Project dependencies
+  - tailwind.config.ts — Tailwind CSS configuration
+  - vite.config.ts — Vite configuration
 
 ---
 
