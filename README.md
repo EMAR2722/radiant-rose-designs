@@ -1,73 +1,97 @@
-# Welcome to your Lovable project
+# 🌹 Radiant Rose Designs
 
-## Project info
+Radiant Rose Designs is a modern and elegant beauty salon website built using modern frontend technologies. The project focuses on creating a stylish, responsive, and user-friendly interface for beauty salons to showcase their services and connect with clients.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+---
 
-## How can I edit this code?
+## ✨ Features
 
-There are several ways of editing your application.
+* Modern and elegant user interface
+* Fully responsive design
+* Reusable component-based structure
+* Styled with Tailwind CSS
+* Fast development with Vite
+* Built with TypeScript
+* Service showcase sections
+* Contact and information sections
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## 🛠️ Technologies Used
 
-Changes made via Lovable will be committed automatically to this repo.
+* Vite
+* TypeScript
+* Tailwind CSS
+* React
+* HTML5
+* JavaScript
+* PostCSS
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 📂 Project Structure
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+radiant-rose-designs
+│
+├── public/            Static assets
+├── src/               Main application source code
+│   ├── components/    Reusable UI components
+│   ├── pages/         Page sections
+│   └── main.tsx       Application entry point
+│
+├── index.html         Root HTML file
+├── package.json       Project dependencies
+├── tailwind.config.ts Tailwind CSS configuration
+└── vite.config.ts     Vite configuration
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🚀 Getting Started
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### Clone the repository
 
-# Step 3: Install the necessary dependencies.
-npm i
+git clone https://github.com/EMAR2722/radiant-rose-designs.git
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+### Navigate to the project folder
+
+cd radiant-rose-designs
+
+### Install dependencies
+
+npm install
+
+### Run the development server
+
 npm run dev
-```
 
-**Edit a file directly in GitHub**
+Then open your browser and visit:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+http://localhost:5173
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 🎯 Project Purpose
 
-## What technologies are used for this project?
+This project demonstrates modern frontend development by building a professional beauty salon website with clean design, responsive layouts, and organized code structure.
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 📌 Future Improvements
 
-## How can I deploy this project?
+* Online appointment booking system
+* Service pricing page
+* Beauty gallery section
+* Customer testimonials
+* Admin dashboard
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+---
 
-## Can I connect a custom domain to my Lovable project?
+## 👩‍💻 Author
 
-Yes, you can!
+Marya Getu
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+GitHub: https://github.com/EMAR2722
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+---
+<img width="1920" height="4959" alt="screencapture-lovable-dev-projects-0e43e0e2-513a-41da-81ed-bbb02bdb8f48-2026-03-11-09_39_38" src="https://github.com/user-attachments/assets/fa2a217d-8d2e-478c-b3b7-c49692e2194a" />
+
